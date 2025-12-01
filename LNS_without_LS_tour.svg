@@ -1,0 +1,1008 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f8f8f8"/>
+  <text x="40" y="20" font-family="sans-serif" font-size="14" fill="#333">
+    Best Objective: 69631 | Tour Size: 100
+  </text>
+  
+  <line x1="304.376" y1="627.722" x2="369.545" y2="687.807"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="369.545" y1="687.807" x2="443.034" y2="659.613"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="443.034" y1="659.613" x2="463.833" y2="679.95"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="463.833" y1="679.95" x2="493.876" y2="772.851"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="493.876" y1="772.851" x2="589.088" y2="892.56"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="589.088" y1="892.56" x2="640.854" y2="989.159"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="640.854" y1="989.159" x2="792.454" y2="1039.54"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="792.454" y1="1039.54" x2="798.001" y2="965.587"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="798.001" y1="965.587" x2="902.919" y2="933.233"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="902.919" y1="933.233" x2="919.096" y2="896.257"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="919.096" y1="896.257" x2="1004.14" y2="903.19"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1004.14" y1="903.19" x2="1060.07" y2="842.18"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1060.07" y1="842.18" x2="1117.84" y2="874.996"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1117.84" y1="874.996" x2="1130.78" y2="869.912"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1130.78" y1="869.912" x2="1174.23" y2="844.491"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1174.23" y1="844.491" x2="1213.05" y2="785.33"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1213.05" y1="785.33" x2="1201.5" y2="862.517"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1201.5" y1="862.517" x2="1192.25" y2="901.804"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1192.25" y1="901.804" x2="1143.26" y2="942.477"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1143.26" y1="942.477" x2="1243.09" y2="980.377"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1243.09" y1="980.377" x2="1314.73" y2="842.643"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1314.73" y1="842.643" x2="1428.9" y2="921.216"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1428.9" y1="921.216" x2="1483.44" y2="959.578"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1483.44" y1="959.578" x2="1518.1" y2="937.855"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1518.1" y1="937.855" x2="1432.13" y2="783.944"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1432.13" y1="783.944" x2="1501.92" y2="761.296"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1501.92" y1="761.296" x2="1483.44" y2="696.589"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1483.44" y1="696.589" x2="1592.05" y2="719.236"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1592.05" y1="719.236" x2="1606.38" y2="796.423"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1606.38" y1="796.423" x2="1605.92" y2="854.197"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1605.92" y1="854.197" x2="1681.26" y2="1040"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1681.26" y1="1040" x2="1757.06" y2="1015.5"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1757.06" y1="1015.5" x2="1804.2" y2="1015.04"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1804.2" y1="1015.04" x2="1800.04" y2="953.107"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1800.04" y1="953.107" x2="1789.41" y2="928.611"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1789.41" y1="928.611" x2="1743.65" y2="891.635"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1743.65" y1="891.635" x2="1761.22" y2="803.818"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1761.22" y1="803.818" x2="1739.49" y2="690.58"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1739.49" y1="690.58" x2="1837.94" y2="648.983"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1837.94" y1="648.983" x2="1879.54" y2="440.533"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1879.54" y1="440.533" x2="1687.73" y2="446.541"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1687.73" y1="446.541" x2="1691.89" y2="528.812"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1691.89" y1="528.812" x2="1638.27" y2="542.216"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1638.27" y1="542.216" x2="1488.06" y2="614.318"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1488.06" y1="614.318" x2="1498.23" y2="591.67"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1498.23" y1="591.67" x2="1500.54" y2="511.248"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1500.54" y1="511.248" x2="1483.44" y2="501.08"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1483.44" y1="501.08" x2="1395.16" y2="421.583"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1395.16" y1="421.583" x2="1462.18" y2="356.413"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1462.18" y1="356.413" x2="1374.36" y2="297.714"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1374.36" y1="297.714" x2="1272.68" y2="386.456"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1272.68" y1="386.456" x2="1265.28" y2="392.002"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1265.28" y1="392.002" x2="1189.48" y2="484.903"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1189.48" y1="484.903" x2="1115.07" y2="648.52"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1115.07" y1="648.52" x2="1068.85" y2="688.269"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="1068.85" y1="688.269" x2="946.365" y2="756.674"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="946.365" y1="756.674" x2="890.902" y2="726.169"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="890.902" y1="726.169" x2="809.093" y2="756.674"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="809.093" y1="756.674" x2="739.764" y2="705.833"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="739.764" y1="705.833" x2="689.385" y2="785.793"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="689.385" y1="785.793" x2="576.609" y2="610.158"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="576.609" y1="610.158" x2="602.954" y2="562.552"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="602.954" y1="562.552" x2="718.503" y2="566.712"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="718.503" y1="566.712" x2="877.498" y2="640.201"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="877.498" y1="640.201" x2="854.851" y2="569.947"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="854.851" y1="569.947" x2="914.012" y2="398.935"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="914.012" y1="398.935" x2="961.618" y2="287.546"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="961.618" y1="287.546" x2="923.255" y2="188.636"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="923.255" y1="188.636" x2="884.431" y2="143.341"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="884.431" y1="143.341" x2="689.847" y2="135.021"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="689.847" y1="135.021" x2="661.191" y2="211.284"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="661.191" y1="211.284" x2="589.088" y2="141.03"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="589.088" y1="141.03" x2="468.917" y2="134.559"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="468.917" y1="134.559" x2="434.253" y2="147.963"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="434.253" y1="147.963" x2="461.06" y2="280.151"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="461.06" y1="280.151" x2="527.154" y2="370.741"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="527.154" y1="370.741" x2="447.656" y2="487.676"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="447.656" y1="487.676" x2="391.731" y2="384.145"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="391.731" y1="384.145" x2="289.123" y2="467.802"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="289.123" y1="467.802" x2="266.476" y2="445.154"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="266.476" y1="445.154" x2="187.903" y2="430.364"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="187.903" y1="430.364" x2="200.844" y2="190.947"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="200.844" y1="190.947" x2="214.71" y2="126.702"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="214.71" y1="126.702" x2="140.759" y2="187.712"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="140.759" y1="187.712" x2="56.639" y2="422.045"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="56.639" y1="422.045" x2="62.6476" y2="510.786"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="62.6476" y1="510.786" x2="180.045" y2="600.452"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="180.045" y1="600.452" x2="54.7903" y2="685.496"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="54.7903" y1="685.496" x2="176.81" y2="731.253"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="176.81" y1="731.253" x2="139.834" y2="794.574"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="139.834" y1="794.574" x2="111.178" y2="850.5"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="111.178" y1="850.5" x2="156.473" y2="945.25"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="156.473" y1="945.25" x2="150.003" y2="1019.66"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="150.003" y1="1019.66" x2="207.315" y2="1004.41"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="207.315" y1="1004.41" x2="340.427" y2="1001.18"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="340.427" y1="1001.18" x2="412.067" y2="1003.02"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="412.067" y1="1003.02" x2="338.116" y2="936.93"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="338.116" y1="936.93" x2="371.856" y2="876.845"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="371.856" y1="876.845" x2="274.333" y2="832.474"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="274.333" y1="832.474" x2="304.376" y2="627.722"
+        stroke="#0000FF" stroke-width="2" stroke-dasharray="4,2"/>
+  
+  <circle cx="661.191" cy="211.284" r="5.9608"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 0 (x:1355, y:1796, cost:496)</title>
+  </circle>
+  <circle cx="1201.5" cy="862.517" r="5.46633"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 1 (x:2524, y:387, cost:414)</title>
+  </circle>
+  <circle cx="1314.73" cy="842.643" r="5.98492"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 2 (x:2769, y:430, cost:500)</title>
+  </circle>
+  <circle cx="1482.05" cy="487.214" r="9.80201"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 3 (x:3131, y:1199, cost:1133)</title>
+  </circle>
+  <circle cx="340.427" cy="1001.18" r="8.41508"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 4 (x:661, y:87, cost:903)</title>
+  </circle>
+  <circle cx="325.175" cy="591.208" r="9.48844"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 5 (x:628, y:974, cost:1081)</title>
+  </circle>
+  <circle cx="842.833" cy="955.88" r="14.1799"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 6 (x:1748, y:185, cost:1859)</title>
+  </circle>
+  <circle cx="1721.93" cy="171.535" r="8.66834"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 7 (x:3650, y:1882, cost:945)</title>
+  </circle>
+  <circle cx="1640.58" cy="472.886" r="11.3457"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 8 (x:3474, y:1230, cost:1389)</title>
+  </circle>
+  <circle cx="1265.28" cy="392.002" r="7.64925"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 9 (x:2662, y:1405, cost:776)</title>
+  </circle>
+  <circle cx="150.003" cy="1019.66" r="7.63719"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 10 (x:249, y:47, cost:774)</title>
+  </circle>
+  <circle cx="349.671" cy="863.441" r="13.3839"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 11 (x:681, y:385, cost:1727)</title>
+  </circle>
+  <circle cx="1060.53" cy="595.83" r="11.2312"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 12 (x:2219, y:964, cost:1370)</title>
+  </circle>
+  <circle cx="1763.99" cy="924.913" r="14.0593"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 13 (x:3741, y:252, cost:1839)</title>
+  </circle>
+  <circle cx="1462.18" cy="356.413" r="4.5799"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 14 (x:3088, y:1482, cost:267)</title>
+  </circle>
+  <circle cx="1157.13" cy="324.521" r="8.34271"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 15 (x:2428, y:1551, cost:891)</title>
+  </circle>
+  <circle cx="1681.26" cy="1040" r="3.46432"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 16 (x:3562, y:3, cost:82)</title>
+  </circle>
+  <circle cx="1760.75" cy="737.724" r="13.9387"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 17 (x:3734, y:657, cost:1819)</title>
+  </circle>
+  <circle cx="140.759" cy="187.712" r="4.06734"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 18 (x:229, y:1847, cost:182)</title>
+  </circle>
+  <circle cx="1119.23" cy="776.549" r="12.0151"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 19 (x:2346, y:573, cost:1500)</title>
+  </circle>
+  <circle cx="50.6305" cy="253.343" r="11.2372"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 20 (x:34, y:1705, cost:1371)</title>
+  </circle>
+  <circle cx="1590.2" cy="168.762" r="7.63719"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 21 (x:3365, y:1888, cost:774)</title>
+  </circle>
+  <circle cx="56.639" cy="422.045" r="3.5005"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 22 (x:47, y:1340, cost:88)</title>
+  </circle>
+  <circle cx="961.618" cy="287.546" r="7.90854"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 23 (x:2005, y:1631, cost:819)</title>
+  </circle>
+  <circle cx="528.078" cy="853.273" r="11.9005"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 24 (x:1067, y:407, cost:1481)</title>
+  </circle>
+  <circle cx="1518.1" cy="937.855" r="7.52864"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 25 (x:3209, y:224, cost:756)</title>
+  </circle>
+  <circle cx="1130.78" cy="869.912" r="7.99899"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 26 (x:2371, y:371, cost:834)</title>
+  </circle>
+  <circle cx="1879.08" cy="371.203" r="8.84322"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 27 (x:3990, y:1450, cost:974)</title>
+  </circle>
+  <circle cx="309.46" cy="781.171" r="11.8764"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 28 (x:594, y:563, cost:1477)</title>
+  </circle>
+  <circle cx="492.489" cy="1019.66" r="12.009"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 29 (x:990, y:47, cost:1499)</title>
+  </circle>
+  <circle cx="79.7488" cy="852.349" r="9.15075"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 30 (x:97, y:409, cost:1025)</title>
+  </circle>
+  <circle cx="1743.65" cy="891.635" r="5.34573"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 31 (x:3697, y:324, cost:394)</title>
+  </circle>
+  <circle cx="1479.28" cy="434.986" r="12.5276"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 32 (x:3125, y:1312, cost:1585)</title>
+  </circle>
+  <circle cx="1226.46" cy="472.886" r="14.1558"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 33 (x:2578, y:1230, cost:1855)</title>
+  </circle>
+  <circle cx="54.7903" cy="685.496" r="4.12161"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 34 (x:43, y:770, cost:191)</title>
+  </circle>
+  <circle cx="371.856" cy="876.845" r="8.85528"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 35 (x:729, y:356, cost:976)</title>
+  </circle>
+  <circle cx="391.269" cy="161.366" r="11.997"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 36 (x:771, y:1904, cost:1497)</title>
+  </circle>
+  <circle cx="1224.14" cy="472.424" r="10.6221"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 37 (x:2573, y:1231, cost:1269)</title>
+  </circle>
+  <circle cx="1726.55" cy="844.029" r="12.6121"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 38 (x:3660, y:427, cost:1599)</title>
+  </circle>
+  <circle cx="1715.92" cy="386.918" r="9.39799"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 39 (x:3637, y:1416, cost:1066)</title>
+  </circle>
+  <circle cx="1691.89" cy="528.812" r="4.6402"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 40 (x:3585, y:1109, cost:277)</title>
+  </circle>
+  <circle cx="289.123" cy="467.802" r="5.25528"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 41 (x:550, y:1241, cost:379)</title>
+  </circle>
+  <circle cx="304.376" cy="627.722" r="3.92261"
+          fill="#00AA00" stroke="#006400" stroke-width="3">
+    <title>Node 42 (x:583, y:895, cost:158, START)</title>
+  </circle>
+  <circle cx="369.545" cy="687.807" r="6.47337"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 43 (x:724, y:765, cost:581)</title>
+  </circle>
+  <circle cx="1483.44" cy="959.578" r="4.84523"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 44 (x:3134, y:177, cost:311)</title>
+  </circle>
+  <circle cx="705.099" cy="763.145" r="14.2281"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 45 (x:1450, y:602, cost:1867)</title>
+  </circle>
+  <circle cx="527.154" cy="370.741" r="6.14171"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 46 (x:1065, y:1451, cost:526)</title>
+  </circle>
+  <circle cx="451.354" cy="697.051" r="10.1337"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 47 (x:901, y:745, cost:1188)</title>
+  </circle>
+  <circle cx="139.834" cy="794.574" r="8.91558"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 48 (x:227, y:534, cost:986)</title>
+  </circle>
+  <circle cx="1395.16" cy="421.583" r="3.59698"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 49 (x:2943, y:1341, cost:104)</title>
+  </circle>
+  <circle cx="1812.52" cy="923.065" r="14.7106"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 50 (x:3846, y:256, cost:1947)</title>
+  </circle>
+  <circle cx="718.503" cy="566.712" r="6.69045"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 51 (x:1479, y:1027, cost:617)</title>
+  </circle>
+  <circle cx="1498.23" cy="591.67" r="6.32864"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 52 (x:3166, y:973, cost:557)</title>
+  </circle>
+  <circle cx="1004.14" cy="903.19" r="3.45829"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 53 (x:2097, y:299, cost:81)</title>
+  </circle>
+  <circle cx="111.178" cy="850.5" r="6.32864"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 54 (x:165, y:413, cost:557)</title>
+  </circle>
+  <circle cx="1488.06" cy="614.318" r="6.49749"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 55 (x:3144, y:924, cost:585)</title>
+  </circle>
+  <circle cx="1789.41" cy="928.611" r="9.27739"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 56 (x:3796, y:244, cost:1046)</title>
+  </circle>
+  <circle cx="1483.44" cy="696.589" r="6.31658"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 57 (x:3134, y:746, cost:555)</title>
+  </circle>
+  <circle cx="1816.68" cy="205.737" r="10.7126"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 58 (x:3855, y:1808, cost:1284)</title>
+  </circle>
+  <circle cx="576.609" cy="610.158" r="3.72362"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 59 (x:1172, y:933, cost:125)</title>
+  </circle>
+  <circle cx="628.837" cy="471.5" r="13.1367"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 60 (x:1285, y:1233, cost:1686)</title>
+  </circle>
+  <circle cx="1267.59" cy="346.707" r="15"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 61 (x:2667, y:1503, cost:1995)</title>
+  </circle>
+  <circle cx="1272.68" cy="386.456" r="4.06734"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 62 (x:2678, y:1417, cost:182)</title>
+  </circle>
+  <circle cx="946.365" cy="756.674" r="3.74774"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 63 (x:1972, y:616, cost:129)</title>
+  </circle>
+  <circle cx="1144.65" cy="219.603" r="13.1307"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 64 (x:2401, y:1778, cost:1685)</title>
+  </circle>
+  <circle cx="463.833" cy="679.95" r="3.95276"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 65 (x:928, y:782, cost:163)</title>
+  </circle>
+  <circle cx="793.841" cy="521.417" r="12.6422"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 66 (x:1642, y:1125, cost:1604)</title>
+  </circle>
+  <circle cx="290.972" cy="141.954" r="13.1487"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 67 (x:554, y:1946, cost:1688)</title>
+  </circle>
+  <circle cx="461.06" cy="280.151" r="7.70352"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 68 (x:922, y:1647, cost:785)</title>
+  </circle>
+  <circle cx="200.844" cy="190.947" r="9.19899"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 69 (x:359, y:1840, cost:1033)</title>
+  </circle>
+  <circle cx="792.454" cy="1039.54" r="6.7206"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 70 (x:1639, y:4, cost:622)</title>
+  </circle>
+  <circle cx="1867.06" cy="265.823" r="10.7126"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 71 (x:3964, y:1678, cost:1284)</title>
+  </circle>
+  <circle cx="654.72" cy="651.294" r="10.7126"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 72 (x:1341, y:844, cost:1284)</title>
+  </circle>
+  <circle cx="1324.9" cy="157.669" r="11.3518"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 73 (x:2791, y:1912, cost:1390)</title>
+  </circle>
+  <circle cx="1223.22" cy="782.557" r="13.0342"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 74 (x:2571, y:560, cost:1669)</title>
+  </circle>
+  <circle cx="1243.09" cy="980.377" r="5.1407"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 75 (x:2614, y:132, cost:360)</title>
+  </circle>
+  <circle cx="886.28" cy="251.495" r="14.3548"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 76 (x:1842, y:1709, cost:1888)</title>
+  </circle>
+  <circle cx="412.067" cy="719.699" r="11.1166"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 77 (x:816, y:696, cost:1351)</title>
+  </circle>
+  <circle cx="1605.92" cy="854.197" r="3.09045"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 78 (x:3399, y:405, cost:20)</title>
+  </circle>
+  <circle cx="890.902" cy="726.169" r="6.35276"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 79 (x:1852, y:682, cost:561)</title>
+  </circle>
+  <circle cx="877.498" cy="640.201" r="5.65327"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 80 (x:1823, y:868, cost:445)</title>
+  </circle>
+  <circle cx="1837.94" cy="648.983" r="6.62412"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 81 (x:3901, y:849, cost:606)</title>
+  </circle>
+  <circle cx="1453.39" cy="850.962" r="9.80201"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 82 (x:3069, y:412, cost:1133)</title>
+  </circle>
+  <circle cx="1020.78" cy="208.048" r="14.4211"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 83 (x:2133, y:1803, cost:1899)</title>
+  </circle>
+  <circle cx="338.116" cy="936.93" r="8.58392"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 84 (x:656, y:226, cost:931)</title>
+  </circle>
+  <circle cx="1781.55" cy="893.484" r="12.7266"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 85 (x:3779, y:320, cost:1618)</title>
+  </circle>
+  <circle cx="1143.26" cy="942.477" r="5.96683"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 86 (x:2398, y:214, cost:497)</title>
+  </circle>
+  <circle cx="1275.91" cy="801.045" r="14.0774"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 87 (x:2685, y:520, cost:1842)</title>
+  </circle>
+  <circle cx="1710.84" cy="1039.54" r="14.2221"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 88 (x:3626, y:4, cost:1866)</title>
+  </circle>
+  <circle cx="923.255" cy="188.636" r="7.51658"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 89 (x:1922, y:1845, cost:754)</title>
+  </circle>
+  <circle cx="1879.54" cy="440.533" r="4.45327"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 90 (x:3991, y:1300, cost:246)</title>
+  </circle>
+  <circle cx="1620.25" cy="696.589" r="12.0754"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 91 (x:3430, y:746, cost:1510)</title>
+  </circle>
+  <circle cx="1501.92" cy="761.296" r="5.32161"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 92 (x:3174, y:606, cost:390)</title>
+  </circle>
+  <circle cx="468.917" cy="134.559" r="8.15578"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 93 (x:939, y:1962, cost:860)</title>
+  </circle>
+  <circle cx="1068.85" cy="688.269" r="4.91759"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 94 (x:2237, y:764, cost:323)</title>
+  </circle>
+  <circle cx="1740.88" cy="278.764" r="9.45226"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 95 (x:3691, y:1650, cost:1075)</title>
+  </circle>
+  <circle cx="341.814" cy="552.384" r="10.6764"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 96 (x:664, y:1058, cost:1278)</title>
+  </circle>
+  <circle cx="1174.23" cy="844.491" r="4.8392"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 97 (x:2465, y:426, cost:310)</title>
+  </circle>
+  <circle cx="1862.44" cy="726.631" r="13.3839"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 98 (x:3954, y:681, cost:1727)</title>
+  </circle>
+  <circle cx="1073.01" cy="814.911" r="14.397"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 99 (x:2246, y:490, cost:1895)</title>
+  </circle>
+  <circle cx="1117.84" cy="874.996" r="8.78894"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 100 (x:2343, y:360, cost:965)</title>
+  </circle>
+  <circle cx="1192.25" cy="901.804" r="4.7608"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 101 (x:2504, y:302, cost:297)</title>
+  </circle>
+  <circle cx="1359.57" cy="390.153" r="8.63216"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 102 (x:2866, y:1409, cost:939)</title>
+  </circle>
+  <circle cx="40" cy="549.611" r="10.2241"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 103 (x:11, y:1064, cost:1203)</title>
+  </circle>
+  <circle cx="163.406" cy="894.408" r="12.9497"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 104 (x:278, y:318, cost:1655)</title>
+  </circle>
+  <circle cx="427.32" cy="682.261" r="11.3095"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 105 (x:849, y:777, cost:1383)</title>
+  </circle>
+  <circle cx="1500.54" cy="511.248" r="4.56181"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 106 (x:3171, y:1147, cost:264)</title>
+  </circle>
+  <circle cx="1875.84" cy="381.372" r="14.7769"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 107 (x:3983, y:1428, cost:1958)</title>
+  </circle>
+  <circle cx="214.71" cy="126.702" r="7.10653"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 108 (x:389, y:1979, cost:686)</title>
+  </circle>
+  <circle cx="686.611" cy="556.081" r="10.9658"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 109 (x:1410, y:1050, cost:1326)</title>
+  </circle>
+  <circle cx="361.688" cy="342.085" r="12.0633"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 110 (x:707, y:1513, cost:1508)</title>
+  </circle>
+  <circle cx="1217.67" cy="590.746" r="11.8824"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 111 (x:2559, y:975, cost:1478)</title>
+  </circle>
+  <circle cx="412.067" cy="1003.02" r="6.63015"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 112 (x:816, y:83, cost:607)</title>
+  </circle>
+  <circle cx="1800.04" cy="953.107" r="4.67638"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 113 (x:3819, y:191, cost:283)</title>
+  </circle>
+  <circle cx="1091.49" cy="237.167" r="9.13266"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 114 (x:2286, y:1740, cost:1022)</title>
+  </circle>
+  <circle cx="447.656" cy="487.676" r="3.97085"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 115 (x:893, y:1198, cost:166)</title>
+  </circle>
+  <circle cx="443.034" cy="659.613" r="5.05025"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 116 (x:883, y:826, cost:345)</title>
+  </circle>
+  <circle cx="589.088" cy="141.03" r="6.65427"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 117 (x:1199, y:1948, cost:611)</title>
+  </circle>
+  <circle cx="602.954" cy="562.552" r="7.93869"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 118 (x:1229, y:1036, cost:824)</title>
+  </circle>
+  <circle cx="1692.81" cy="522.341" r="9.38593"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 119 (x:3587, y:1123, cost:1064)</title>
+  </circle>
+  <circle cx="1428.9" cy="921.216" r="3.17487"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 120 (x:3016, y:260, cost:34)</title>
+  </circle>
+  <circle cx="1060.07" cy="842.18" r="9.56683"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 121 (x:2218, y:431, cost:1094)</title>
+  </circle>
+  <circle cx="938.046" cy="700.749" r="10.1035"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 122 (x:1954, y:737, cost:1183)</title>
+  </circle>
+  <circle cx="589.088" cy="892.56" r="3.68744"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 123 (x:1199, y:322, cost:119)</title>
+  </circle>
+  <circle cx="1115.07" cy="648.52" r="8.77085"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 124 (x:2337, y:850, cost:962)</title>
+  </circle>
+  <circle cx="1238.93" cy="784.406" r="14.6683"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 125 (x:2605, y:556, cost:1940)</title>
+  </circle>
+  <circle cx="447.194" cy="998.402" r="12.805"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 126 (x:892, y:93, cost:1631)</title>
+  </circle>
+  <circle cx="640.854" cy="989.159" r="7.40804"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 127 (x:1311, y:113, cost:736)</title>
+  </circle>
+  <circle cx="1310.11" cy="548.224" r="12.5457"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 128 (x:2759, y:1067, cost:1588)</title>
+  </circle>
+  <circle cx="1432.13" cy="783.944" r="6.93166"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 129 (x:3023, y:557, cost:657)</title>
+  </circle>
+  <circle cx="1054.98" cy="622.175" r="13.1427"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 130 (x:2207, y:907, cost:1687)</title>
+  </circle>
+  <circle cx="473.539" cy="775.162" r="9.10854"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 131 (x:949, y:576, cost:1018)</title>
+  </circle>
+  <circle cx="1402.55" cy="183.552" r="13.7759"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 132 (x:2959, y:1856, cost:1792)</title>
+  </circle>
+  <circle cx="809.093" cy="756.674" r="5.93065"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 133 (x:1675, y:616, cost:491)</title>
+  </circle>
+  <circle cx="60.7988" cy="136.87" r="14.0714"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 134 (x:56, y:1957, cost:1841)</title>
+  </circle>
+  <circle cx="798.001" cy="965.587" r="4.15779"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 135 (x:1651, y:164, cost:197)</title>
+  </circle>
+  <circle cx="989.349" cy="842.643" r="10.8211"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 136 (x:2065, y:430, cost:1302)</title>
+  </circle>
+  <circle cx="914.012" cy="398.935" r="4.73668"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 137 (x:1902, y:1390, cost:293)</title>
+  </circle>
+  <circle cx="1525.96" cy="394.775" r="9.33166"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 138 (x:3226, y:1399, cost:1055)</title>
+  </circle>
+  <circle cx="391.731" cy="384.145" r="3.87437"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 139 (x:772, y:1422, cost:150)</title>
+  </circle>
+  <circle cx="434.253" cy="147.963" r="8.66834"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 140 (x:864, y:1933, cost:945)</title>
+  </circle>
+  <circle cx="737.915" cy="475.659" r="14.0955"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 141 (x:1521, y:1224, cost:1845)</title>
+  </circle>
+  <circle cx="265.551" cy="384.607" r="14.2523"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 142 (x:499, y:1421, cost:1871)</title>
+  </circle>
+  <circle cx="689.847" cy="135.021" r="5.52663"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 143 (x:1417, y:1961, cost:424)</title>
+  </circle>
+  <circle cx="1374.36" cy="297.714" r="3.98291"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 144 (x:2898, y:1609, cost:168)</title>
+  </circle>
+  <circle cx="1606.38" cy="796.423" r="3.84422"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 145 (x:3400, y:530, cost:145)</title>
+  </circle>
+  <circle cx="62.6476" cy="510.786" r="8.02915"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 146 (x:60, y:1148, cost:839)</title>
+  </circle>
+  <circle cx="156.011" cy="874.072" r="14.6141"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 147 (x:262, y:362, cost:1931)</title>
+  </circle>
+  <circle cx="1189.48" cy="484.903" r="5.68342"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 148 (x:2498, y:1204, cost:450)</title>
+  </circle>
+  <circle cx="493.876" cy="772.851" r="8.08945"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 149 (x:993, y:581, cost:849)</title>
+  </circle>
+  <circle cx="1208.89" cy="921.216" r="14.6382"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 150 (x:2540, y:260, cost:1935)</title>
+  </circle>
+  <circle cx="739.764" cy="705.833" r="4.72462"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 151 (x:1525, y:726, cost:291)</title>
+  </circle>
+  <circle cx="1213.05" cy="785.33" r="5.08643"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 152 (x:2549, y:554, cost:351)</title>
+  </circle>
+  <circle cx="731.907" cy="201.115" r="10.7307"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 153 (x:1508, y:1818, cost:1287)</title>
+  </circle>
+  <circle cx="902.919" cy="933.233" r="4.54975"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 154 (x:1878, y:234, cost:262)</title>
+  </circle>
+  <circle cx="1391.46" cy="323.597" r="12.7628"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 155 (x:2935, y:1553, cost:1624)</title>
+  </circle>
+  <circle cx="465.682" cy="1025.67" r="12.7688"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 156 (x:932, y:34, cost:1625)</title>
+  </circle>
+  <circle cx="1761.22" cy="803.818" r="9.6392"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 157 (x:3735, y:514, cost:1106)</title>
+  </circle>
+  <circle cx="974.097" cy="935.082" r="9.93467"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 158 (x:2032, y:230, cost:1155)</title>
+  </circle>
+  <circle cx="187.903" cy="430.364" r="7.21508"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 159 (x:331, y:1322, cost:704)</title>
+  </circle>
+  <circle cx="176.81" cy="731.253" r="4.34472"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 160 (x:307, y:671, cost:228)</title>
+  </circle>
+  <circle cx="688.46" cy="823.23" r="13.3357"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 161 (x:1414, y:472, cost:1719)</title>
+  </circle>
+  <circle cx="689.385" cy="785.793" r="6.31658"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 162 (x:1416, y:553, cost:555)</title>
+  </circle>
+  <circle cx="282.19" cy="213.595" r="11.5508"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 163 (x:535, y:1791, cost:1423)</title>
+  </circle>
+  <circle cx="1810.67" cy="166.913" r="6.56985"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 164 (x:3842, y:1892, cost:597)</title>
+  </circle>
+  <circle cx="1687.73" cy="446.541" r="4.69447"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 165 (x:3576, y:1287, cost:286)</title>
+  </circle>
+  <circle cx="360.301" cy="794.112" r="12.4191"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 166 (x:704, y:535, cost:1567)</title>
+  </circle>
+  <circle cx="1274.52" cy="586.586" r="8.75879"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 167 (x:2682, y:984, cost:960)</title>
+  </circle>
+  <circle cx="1655.84" cy="816.76" r="14.1618"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 168 (x:3507, y:486, cost:1856)</title>
+  </circle>
+  <circle cx="1727.01" cy="640.663" r="12.1839"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 169 (x:3661, y:867, cost:1528)</title>
+  </circle>
+  <circle cx="662.577" cy="157.207" r="11.1106"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 170 (x:1358, y:1913, cost:1350)</title>
+  </circle>
+  <circle cx="1757.06" cy="1015.5" r="4.39899"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 171 (x:3726, y:56, cost:237)</title>
+  </circle>
+  <circle cx="1357.26" cy="660.075" r="13.8784"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 172 (x:2861, y:825, cost:1809)</title>
+  </circle>
+  <circle cx="864.557" cy="885.627" r="13.8362"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 173 (x:1795, y:337, cost:1802)</title>
+  </circle>
+  <circle cx="1789.87" cy="583.813" r="13.3176"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 174 (x:3797, y:990, cost:1716)</title>
+  </circle>
+  <circle cx="1804.2" cy="1015.04" r="4.04322"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 175 (x:3828, y:57, cost:178)</title>
+  </circle>
+  <circle cx="854.851" cy="569.947" r="3.39196"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 176 (x:1774, y:1020, cost:70)</title>
+  </circle>
+  <circle cx="156.473" cy="945.25" r="6.14774"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 177 (x:263, y:208, cost:527)</title>
+  </circle>
+  <circle cx="1483.44" cy="501.08" r="5.50251"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 178 (x:3134, y:1169, cost:420)</title>
+  </circle>
+  <circle cx="1592.05" cy="719.236" r="8.33065"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 179 (x:3369, y:697, cost:889)</title>
+  </circle>
+  <circle cx="919.096" cy="896.257" r="4.02513"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 180 (x:1913, y:314, cost:175)</title>
+  </circle>
+  <circle cx="180.045" cy="600.452" r="7.40804"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 181 (x:314, y:954, cost:736)</title>
+  </circle>
+  <circle cx="999.98" cy="832.012" r="10.9719"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 182 (x:2088, y:453, cost:1327)</title>
+  </circle>
+  <circle cx="884.431" cy="143.341" r="3.22915"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 183 (x:1838, y:1943, cost:43)</title>
+  </circle>
+  <circle cx="274.333" cy="832.474" r="4.75477"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 184 (x:518, y:452, cost:296)</title>
+  </circle>
+  <circle cx="1638.27" cy="542.216" r="3.35578"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 185 (x:3469, y:1080, cost:64)</title>
+  </circle>
+  <circle cx="1015.23" cy="282.924" r="8.14975"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 186 (x:2121, y:1641, cost:859)</title>
+  </circle>
+  <circle cx="1838.86" cy="620.327" r="12.8291"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 187 (x:3903, y:911, cost:1635)</title>
+  </circle>
+  <circle cx="1813.44" cy="877.307" r="14.9879"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 188 (x:3848, y:355, cost:1993)</title>
+  </circle>
+  <circle cx="1097.04" cy="776.549" r="10.3628"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 189 (x:2298, y:573, cost:1226)</title>
+  </circle>
+  <circle cx="207.315" cy="1004.41" r="8.58392"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 190 (x:373, y:80, cost:931)</title>
+  </circle>
+  <circle cx="358.915" cy="376.75" r="12.4553"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 191 (x:701, y:1438, cost:1573)</title>
+  </circle>
+  <circle cx="196.684" cy="670.706" r="13.1548"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 192 (x:350, y:802, cost:1689)</title>
+  </circle>
+  <circle cx="266.476" cy="445.154" r="3"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 193 (x:501, y:1290, cost:5)</title>
+  </circle>
+  <circle cx="734.68" cy="913.358" r="11.0503"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 194 (x:1514, y:277, cost:1340)</title>
+  </circle>
+  <circle cx="122.271" cy="509.4" r="9.87437"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 195 (x:189, y:1151, cost:1145)</title>
+  </circle>
+  <circle cx="1739.49" cy="690.58" r="7.35377"
+          fill="#FF0000" stroke="#8B0000" stroke-width="1.5">
+    <title>Node 196 (x:3688, y:759, cost:727)</title>
+  </circle>
+  <circle cx="484.632" cy="586.586" r="12.8412"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 197 (x:973, y:984, cost:1637)</title>
+  </circle>
+  <circle cx="455.514" cy="402.17" r="10.5377"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 198 (x:910, y:1383, cost:1255)</title>
+  </circle>
+  <circle cx="156.011" cy="269.982" r="10.8513"
+          fill="#AAAAAA" stroke="#666666" stroke-width="1.5">
+    <title>Node 199 (x:262, y:1669, cost:1307)</title>
+  </circle>
+</svg>

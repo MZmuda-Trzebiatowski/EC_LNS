@@ -1680,7 +1680,7 @@ vector<int> destroyLNS(const vector<int>& tour, const vector<vector<int>>& d, co
     if (remove_count < 1) remove_count = 1;
 
     static mt19937 rng{random_device{}()};
-    uniform_real_distribution<double> noise_dist(0.8, 1.2); 
+    uniform_real_distribution<double> noise_dist(0.6, 1.2); 
 
     // 1. Calculate "Badness" (Cost Contribution) for each node in the tour
     // Contribution = d(prev, node) + d(node, next) + node.cost
